@@ -13,7 +13,7 @@ export default function Home() {
     <>
       <Head>
         <title>Ever Clean</title>
-        <meta name="keywords" content={'Ever Clean'} />
+        <meta name="keywords" content={'Everclean'} />
         <meta name="description" content="" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
