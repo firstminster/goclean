@@ -26,24 +26,27 @@ const Footer = () => {
                 <div className=" lg:flex justify-between py-10 space-y-10 lg:space-y-0 px-5 lg:px-0">
 
                     <div className="">
-                        <h1 className="text-2xl lg:text-5xl font-semibold w-[500px]">
+                        <h1 className="text-2xl lg:text-5xl font-semibold md:w-[500px]">
                             Expert cleaning, spotless reputation
                         </h1>
                     </div>
                     <div className="space-y-5">
                         <h3 className="text-xl font-semibold ">Address</h3>
-                        <p className="text-lg w-[300px]">Germany —
+                        <p className="text-lg w-[300px]">Nigeria —
+                            4th Floor Banex Mall, Lekki/Oniru Lagos.
+                        </p>
+                        {/* <p className="text-lg w-[300px]">Germany —
                             785 15h Street, Office 478
                             Berlin, De 81566
-                        </p>
+                        </p> */}
                         <div className="">
 
                         </div>
                     </div>
                     <div className="space-y-5">
                         <h3 className="text-xl font-semibold">Say Hello</h3>
-                        <p className="">info@email.com</p>
-                        <p className="text-xl">+1 800 123 45 67</p>
+                        <p className="">info@evercleanservices.ng</p>
+                        <p className="text-xl">+234 903 963 9237</p>
                     </div>
 
                 </div>

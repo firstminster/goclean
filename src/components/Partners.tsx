@@ -12,10 +12,10 @@ const Partners = () => {
                     <h2 className='font-semibold text-xl lg:text-[35px] w-[400px]'>Our Partners</h2>
                 </span>
                 <div className="flex flex-wrap items-center justify-center lg:justify-around pt-10 gap-10 space-y-5">
-                    <Image className='w-[300px] h-full' src={marshellLogo} alt='logo' width={0} height={0} />
-                    <Image className='w-[300px] h-full' src={odraLogo} alt='logo' width={0} height={0} />
-                    <Image className='w-[300px] h-full' src={bortekLogo} alt='logo' width={0} height={0} />
-                    <Image className='w-[300px] h-full' src={challengerLogo} alt='logo' width={0} height={0} />
+                    <Image className='w-[200px] h-full' src={marshellLogo} alt='logo' width={0} height={0} />
+                    <Image className='w-[200px] h-full' src={odraLogo} alt='logo' width={0} height={0} />
+                    <Image className='w-[200px] h-full' src={bortekLogo} alt='logo' width={0} height={0} />
+                    <Image className='w-[200px] h-full' src={challengerLogo} alt='logo' width={0} height={0} />
 
                 </div>
 

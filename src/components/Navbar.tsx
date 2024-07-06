@@ -41,7 +41,7 @@ const Navbar = () => {
 
                     <div >
                         {/* <Image className='w-14' src={''} alt='logo' /> */}
-                        <h1 className="text-textGreen font-semibold text-4xl">Everclean</h1>
+                        <h1 className="text-textGreen font-semibold text-2xl">Everclean</h1>
                     </div>
                 </Link>
                 <div className='hidden lg:inline-flex items-center gap-7' >
